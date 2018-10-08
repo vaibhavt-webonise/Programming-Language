@@ -63,4 +63,8 @@ int len(int n)
 
   first the no tokenzied are stored in an array and then line by line the sum is calculatred according to their sets
   and stored at the end of the array and at last the series is print from an array
+  I also found the logic very critical so i tried to use the recurssion based approach but was not able to complete it using
+  recurssion. 
+  So i gone with approach of array and tried to reduce the code and remove all uneccessary code from it and build it again
+*/
 
